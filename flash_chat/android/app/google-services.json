@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930160679693",
+    "project_id": "flash-chat-b9634",
+    "storage_bucket": "flash-chat-b9634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930160679693:android:cda72158d7797f3d2c2e44",
+        "android_client_info": {
+          "package_name": "com.PedroKoike.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930160679693-6n823kfbfb4522kbhn2mbtri8knff344.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnlkXFotK46eyFRVYhWs14ax_7KH3Mxbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930160679693-6n823kfbfb4522kbhn2mbtri8knff344.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
