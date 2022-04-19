@@ -54,7 +54,7 @@ A weather app inspired by the beautiful designs made by Olia Gozha.
 ![clima-demo](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
 
 ---
-## Bitcoin Ticker
+## [Bitcoin Ticker](https://github.com/pedrokoike/flutter-projects/tree/main/bitcoin-ticker)
 A crypto currency price checking app.
  - Cupertino and Material Widgets
  
