@@ -58,7 +58,8 @@ A weather app inspired by the beautiful designs made by Olia Gozha.
 A crypto currency price checking app.
  - Cupertino and Material Widgets
  
-![](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
+ <img width="300" alt="bitcoin-flutter" src="https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif">
+
 
 ---
 ## Flash Chat
